@@ -7,4 +7,3 @@
 | Navegador de Internet | Exibir página, adicionar nova aba e atualizar página |
 | {% ifversion some-cool-feature %} | 👍
 | GitHub Docs | Yes |
-| {% endif %} |
