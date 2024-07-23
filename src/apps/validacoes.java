@@ -1,5 +1,9 @@
 package apps;
 
-public abstract class validacoes {
-    
+public interface validacoes {
+    public void validarConectadoInternet();
+        //System.out.println("Conexão com internet validada e ok");
+
+    public void salvarHistorico();
+        //System.out.println("Histórico Salvo");
 }
